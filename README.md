@@ -12,7 +12,7 @@
 
 ---
 ### :woman_technologist: About Me :
-- I am a Full Stack Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Brazil.
+- I am a Full Stack Developer student from Brazil.
 - :zap: In my free time, I relax and watch tv.
 - :dog: I'm a dog person, I'm owned by a dog named Mafalda.
 ---
