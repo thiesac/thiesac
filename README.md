@@ -10,7 +10,7 @@
 # 👋 Hi, Welcome to my Github profile
 ## My name is *Thiesa*
 
----
+
 ### :woman_technologist: About Me :
 - I'm a Full Stack Developer student from Brazil.
 - :zap: In my free time, I relax and watch tv.
