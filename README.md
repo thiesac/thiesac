@@ -19,7 +19,8 @@
 
 - I'm already familiar with:
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/[#E34F26]/[ORANGE]" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+
  / CSS
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
