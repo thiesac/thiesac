@@ -17,7 +17,7 @@
 - :dog: I'm a dog person, I'm owned by a dog named Mafalda.
 ---
 - I'm already familiar with:
-<div>
+<div display="block">
  - <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   HTML
  - <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
