@@ -19,8 +19,7 @@
 
 - I'm already familiar with:
 <div>
-  HTML
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/[#E34F26]/[ORANGE]" />
  / CSS
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
