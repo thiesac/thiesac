@@ -16,7 +16,7 @@
 - :zap: In my free time, I relax and watch tv.
 - :dog: I'm a dog person, I'm owned by a dog named Mafalda.
 ---
-
+<div align="center">
   - LANGUAGES
 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="TRELLO">
     <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="INSOMNIA">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="POSTMAN">
- 
+ </div>
 
 
 
